@@ -11,7 +11,7 @@
 		$cost = "Please fill in the age requirement.";
 	}
   else if ($age < 5 || $age > 95) {
-		$cost = "The admisson cost for you is FREE!";
+		$cost = "The admission cost for you is FREE!";
 	}
 	else if (($day == "Tuesday") || ($day == "Thursday)") 
 			 || ($age >=12) && ($age <=21)) {

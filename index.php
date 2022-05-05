@@ -35,7 +35,7 @@
     <!-- user input -->
       <form action="./results.php" method="post" target="results">  
         <label for=age">Please enter your age:</label>
-        <input type="number" name="age" step="1" min="0">
+        <input type="number" name="age" step="1" min="1">
       <br>
       <br>
       <!-- days -->
